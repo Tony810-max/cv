@@ -1,0 +1,42 @@
+@media (min-width: 740px) and (max-width: 1150px) {
+
+
+    #logo{
+        display: inline-block;
+    }
+
+    #content-section{
+        display: inline-block;
+        left: 0px;
+    }
+
+    #profile{
+        display: inline-block;
+    }
+
+    #profile i{
+        display: block;
+    }
+
+    .school-name{
+        width: 100%;
+    }
+}
+
+@media (max-width: 739px){
+    #header{
+        display: block;
+    }
+
+    #logo{
+        display: inline-block;
+    }
+
+    #content-section{
+        display: inline-block;
+    }
+
+    #content-section p{
+        padding: 0;
+    }
+}
